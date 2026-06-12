@@ -1,42 +1,46 @@
-# Termux Void
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0091EA&height=200&section=header&text=Termux%20Void&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Unofficial%20Termux%20APT%20Repository&descAlignY=55&descSize=20">
+</p>
 
-**Third-Party (Unofficial) Termux APT Repository — Cutting-Edge & Custom Packages**
+<p align="center">
+  <a href="https://github.com/termuxvoid/repo"><img src="https://img.shields.io/github/stars/termuxvoid/repo?style=for-the-badge&logo=github&color=FFD700&logoColor=white"></a>
+  <a href="https://github.com/termuxvoid/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00C853?style=for-the-badge"></a>
+  <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-Join_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/termuxvoid/repo"><img src="https://img.shields.io/github/repo-size/termuxvoid/repo?style=for-the-badge&logo=goland&color=0091EA&logoColor=white"></a>
+</p>
 
-<div align="center">
+---
 
-[![GitHub Stars](https://img.shields.io/github/stars/termuxvoid/repo?style=for-the-badge&logo=github)](https://github.com/termuxvoid/repo)
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue?style=for-the-badge)](https://github.com/termuxvoid/repo/blob/main/LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-@nullxvoid-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nullxvoid)
-[![Repo Size](https://img.shields.io/github/repo-size/termuxvoid/repo?style=for-the-badge&logo=files)](#)
+## 🎯 What is Termux Void?
 
-</div>
+A **third-party APT repository** for Termux — delivering **cutting-edge, pre-tested** cybersecurity & custom packages with zero dependency headaches.
 
-## About
+✅ Custom tools built exclusively for Termux  
+✅ One-command setup, no dependency hell  
+✅ Regularly updated & community-tested  
 
-We deliver pre-tested, dependency-free packages for Termux — built for the ethical hacking and cybersecurity community.
+---
 
-- Custom tools packaged exclusively for Termux
-- One-command setup, zero dependency hell
-- Reliable, tested packages updated regularly
-
-## Quick Start
+## ⚡ Quick Start
 
 ```bash
 curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ```
 
-> Need `curl`? Run `pkg install curl` first.
-
-## Resources
-
-| Resource | Link |
-|----------|------|
-| Source | [termuxvoid/repo](https://github.com/termuxvoid/repo) |
-| Packages | [PACKAGES.md](https://github.com/termuxvoid/repo/blob/main/assets/PACKAGES.md) |
-| Community | [t.me/nullxvoid](https://t.me/nullxvoid) |
+> 💡 *Need `curl`?* → `pkg install curl`
 
 ---
 
-<div align="center">
-  <sub>Built with ☕ & Termux</sub>
-</div>
+## 📫 Connect & Resources
+
+<p align="center">
+  <a href="https://github.com/termuxvoid/repo"><img src="https://img.shields.io/badge/Main_Repo-📦-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/termuxvoid/repo/blob/main/assets/PACKAGES.md"><img src="https://img.shields.io/badge/Package_List-📋-FF6F00?style=for-the-badge"></a>
+  <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Community-💬-26A5E4?style=for-the-badge&logo=telegram"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091EA,100:00C853&height=120&section=footer&text=Made%20with%20☕%20%26%20Termux&fontSize=24&fontColor=fff&animation=twinkling">
+</p>
