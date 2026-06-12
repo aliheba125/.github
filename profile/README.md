@@ -16,7 +16,7 @@ We’re the Termux Void crew, passionate about empowering ethical hackers with c
 ### 📦 Get Started  
 Add our repository to Termux in seconds:  
 ```bash
-curl -sL https://termuxvoid.github.io/repo/install.sh | bash
+curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ```
 
 > **Tip**: Need `curl`? Run `pkg install curl` first.
@@ -25,7 +25,7 @@ curl -sL https://termuxvoid.github.io/repo/install.sh | bash
 | Resource | Link |
 |----------|------|
 | 📚 Main Repository | [github.com/termuxvoid/repo](https://github.com/termuxvoid/repo) |
-| 🛠️ Package List | [PACKAGES.md](https://github.com/termuxvoid/repo/blob/main/PACKAGES.md) |
+| 🛠️ Package List | [PACKAGES.md](https://github.com/termuxvoid/repo/blob/main/assets/PACKAGES.md) |
 | 💬 Community | [t.me/nullxvoid](https://t.me/nullxvoid) |
 
 ### ☕ About Us  
