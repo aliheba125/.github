@@ -42,5 +42,5 @@ curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091EA,100:00C853&height=120&section=footer&text=Made%20with%20☕%20%26%20Termux&fontSize=24&fontColor=fff&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091EA,100:00C853&height=120&section=footer&text=Made+with+Coffee+and+Termux&fontSize=22&fontColor=fff&animation=twinkling">
 </p>
