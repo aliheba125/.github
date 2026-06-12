@@ -1,43 +1,42 @@
-## 🚀 Welcome to Termux Void  
-A Third-Party (Unofficial) Termux APT Repository for Cutting-Edge & Custom Packages
+# Termux Void
 
-[![GitHub Stars](https://img.shields.io/github/stars/termuxvoid/repo?style=social)](https://github.com/termuxvoid/repo)
-[![License](https://img.shields.io/badge/License-BSD-blue.svg)](https://github.com/termuxvoid/repo/blob/main/LICENSE)
-[![Telegram](https://img.shields.io/badge/Join-Telegram-2CA5E0?logo=telegram)](https://t.me/nullxvoid)
+**Third-Party (Unofficial) Termux APT Repository — Cutting-Edge & Custom Packages**
 
-### 🙋‍♂️ Who We Are  
-We’re the Termux Void crew, passionate about empowering ethical hackers with cutting-edge cybersecurity tools. Our unofficial Termux APT repository delivers custom, pre-tested packages that install effortlessly—no dependency nightmares! 🛠️
+<div align="center">
 
-### 🔧 What We Do  
-- Build unique tools for Termux users.  
-- Simplify installations with one-command setups.  
-- Support the ethical hacking community with reliable, tested packages.  
+[![GitHub Stars](https://img.shields.io/github/stars/termuxvoid/repo?style=for-the-badge&logo=github)](https://github.com/termuxvoid/repo)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue?style=for-the-badge)](https://github.com/termuxvoid/repo/blob/main/LICENSE)
+[![Telegram](https://img.shields.io/badge/Telegram-@nullxvoid-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/nullxvoid)
+[![Repo Size](https://img.shields.io/github/repo-size/termuxvoid/repo?style=for-the-badge&logo=files)](#)
 
-### 📦 Get Started  
-Add our repository to Termux in seconds:  
+</div>
+
+## About
+
+We deliver pre-tested, dependency-free packages for Termux — built for the ethical hacking and cybersecurity community.
+
+- Custom tools packaged exclusively for Termux
+- One-command setup, zero dependency hell
+- Reliable, tested packages updated regularly
+
+## Quick Start
+
 ```bash
 curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ```
 
-> **Tip**: Need `curl`? Run `pkg install curl` first.
+> Need `curl`? Run `pkg install curl` first.
 
-### 🌐 Connect with Us  
+## Resources
+
 | Resource | Link |
 |----------|------|
-| 📚 Main Repository | [github.com/termuxvoid/repo](https://github.com/termuxvoid/repo) |
-| 🛠️ Package List | [PACKAGES.md](https://github.com/termuxvoid/repo/blob/main/assets/PACKAGES.md) |
-| 💬 Community | [t.me/nullxvoid](https://t.me/nullxvoid) |
+| Source | [termuxvoid/repo](https://github.com/termuxvoid/repo) |
+| Packages | [PACKAGES.md](https://github.com/termuxvoid/repo/blob/main/assets/PACKAGES.md) |
+| Community | [t.me/nullxvoid](https://t.me/nullxvoid) |
 
-### ☕ About Us  
-Fueled by coffee and a love for `Termux`, we’re here to make ethical hacking accessible and fun. Join us in exploring the art of cybersecurity! ☕💻
+---
 
-### ⚖️ Our Ethos  
-> "With great power comes great responsibility"  
-We believe in using our tools for learning and securing, not harming.
-
-### 🌟 Stay in Touch  
-Follow us and join our community for updates and tips!  
-
-[![GitHub Follow](https://img.shields.io/badge/Follow-TermuxVoid-blue?logo=github)](https://github.com/termuxvoid)
-[![Support](https://img.shields.io/badge/Support-Community-2CA5E0?logo=telegram)](https://t.me/nullxvoid)
-[![Made with Love](https://img.shields.io/badge/Made%20with-♥-red)](https://github.com/termuxvoid/repo)
+<div align="center">
+  <sub>Built with ☕ & Termux</sub>
+</div>
