@@ -4,9 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/termuxvoid/repo"><img src="https://img.shields.io/github/stars/termuxvoid/repo?style=for-the-badge&logo=github&color=FFD700&logoColor=white"></a>
-  <a href="https://github.com/termuxvoid/repo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=termuxvoid&repo=repo&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
-  </a>
   <a href="https://github.com/termuxvoid/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00C853?style=for-the-badge"></a>
   <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-Join_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://github.com/termuxvoid/repo"><img src="https://img.shields.io/github/repo-size/termuxvoid/repo?style=for-the-badge&logo=goland&color=0091EA&logoColor=white"></a>
@@ -31,6 +28,14 @@ curl -sL https://github.com/termuxvoid/repo/raw/main/install.sh | bash
 ```
 
 > 💡 *Need `curl`?* → `pkg install curl`
+
+---
+
+<p align="center">
+  <a href="https://github.com/termuxvoid/repo">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=termuxvoid&repo=repo&hide_border=true&border_radius=8&theme=github_dark&bg_color=00000000&title_color=FFFFFF&icon_color=8b949e&text_color=c9d1d9" />
+  </a>
+</p>
 
 ---
 
