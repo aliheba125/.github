@@ -7,7 +7,8 @@
   <a href="https://github.com/aliheba125/repo/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-BSD_3--Clause-00C853?style=flat"></a>
   <a href="https://github.com/aliheba125/repo/actions"><img src="https://img.shields.io/github/actions/workflow/status/aliheba125/repo/build.yml?style=flat&logo=githubactions&logoColor=white&label=Build"></a>
   <a href="https://github.com/aliheba125/repo"><img src="https://img.shields.io/github/repo-size/aliheba125/repo?style=flat&logo=goland&color=0091EA&logoColor=white"></a>
-  <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-Join_Chat-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/a1002a"><img src="https://img.shields.io/badge/Telegram-Join_Chat-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://wa.me/9647823210125"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
@@ -53,7 +54,8 @@ curl -sL https://github.com/aliheba125/repo/raw/main/install.sh | bash
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://t.me/nullxvoid"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/a1002a"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://wa.me/9647823210125"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
   <a href="https://github.com/aliheba125/repo/issues"><img src="https://img.shields.io/badge/Report_Issue-181717?style=flat&logo=github&logoColor=white"></a>
   <a href="https://github.com/aliheba125/repo/discussions"><img src="https://img.shields.io/badge/Discussions-2376F5?style=flat&logo=github&logoColor=white"></a>
 </p>
